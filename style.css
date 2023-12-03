@@ -1,0 +1,25 @@
+.text {
+    text-align: center;
+    color: white;
+}
+.body {
+    height: 100%;
+    width: 100%;
+    background: url(bang.jpg);
+    background-size: cover;
+  }
+  
+  .card {
+    margin-top: 50%;
+    background-color: rgba(100, 19, 180, 0.863);
+  }
+  
+  .card:hover {
+    background-color: lightblue;
+    cursor: pointer;
+  }
+  .card-body {
+    bottom: 0;
+    left: 0;
+    width: 1000%;
+  }
